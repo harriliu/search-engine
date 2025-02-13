@@ -2,19 +2,6 @@
 
 Code for the "Build Your Own Search Engine" workshop
 
-Video: https://www.youtube.com/watch?v=nMrGK5QgPVE
-
-
-What we will do: 
-
-* Use Zoomcamp FAQ documents
-    * [DE Zoomcamp](https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit)
-    * [ML Zoomcamp](https://docs.google.com/document/d/1LpPanc33QJJ6BSsyxVg-pWNMplal84TdZtq10naIhD8/edit)
-    * [MLOps Zoomcamp](https://docs.google.com/document/d/12TlBfhIiKtyBv8RnsoJR6F72bkPDGEvPOItJIxaEzE0/edit)
-* Create a search engine for retreiving these documents 
-* Later the results can be used for a [Q&A RAG system](https://github.com/alexeygrigorev/llm-rag-workshop) 
-* [Reference implementation for text search](https://github.com/alexeygrigorev/minsearch)
-
 
 ## Workshop Outline
 
